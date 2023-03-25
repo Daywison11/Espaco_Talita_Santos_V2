@@ -1,0 +1,27 @@
+@keyframes zigzag {
+    0% {
+        margin-left: -70px;
+    }
+
+    50% {
+        margin-right: -70px;
+    }
+
+    100% {
+        margin-left: -70px;
+    }
+}
+@keyframes triagd {
+    0% {
+        margin-left: -70px;
+    }
+
+    50% {
+        margin-right: -70px;
+    }
+
+    100% {
+        margin-left: -70px;
+    }
+}
+
